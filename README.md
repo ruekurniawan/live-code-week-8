@@ -198,3 +198,5 @@ Di sisi `client`, kamu tidak diperbolehkan untuk menyimpan data `Apod (Astronomy
     - Syarat untuk mendapatkan `title`, `descript`, `url` dan `mediaType`:
       - Harus didapatkan lewat `server` **DAN** harus memasukkan value dari *Middleware/Hook* yang ada di `mongoose` seperti `pre save`, `pre validate` dll.
       - Untuk mendapatkan data Apod berdasarkan tanggal/date sudah disediakan oleh 3rd party API, jadi **DILARANG** ambil semua data lalu `.filter` sendiri di code kamu!
+
+1VI7Zll1WcuRKiXd2lHfeIKEZg8gLd5A0YQ8hj4O
